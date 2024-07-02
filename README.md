@@ -47,7 +47,3 @@ R Mukesh
 
 
 
-**Changelog**
------------
-
-* [List any changes you've made to the project]
